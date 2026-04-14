@@ -1,0 +1,4 @@
+name: Proyek_Imammul
+entry_points:
+  main:
+     command: "python modeling.py"
